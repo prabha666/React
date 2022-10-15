@@ -1,1 +1,1 @@
-# React
+# react-project-shopping
